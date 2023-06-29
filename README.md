@@ -1,5 +1,9 @@
 <h1 align="center"> SIMP Lang </h1>
 
+<p align="center">
+  <img src="https://github.com/Daniel-Boll/simp-lang/blob/74feab2fd39f1a65b20a30347585bd201aa0bd73/.github/assets/logo.png" width=200 />
+</p>
+
 SIMP Lang is a simple, yet powerful programming language designed for educational purposes. The language uses syntax inspired by modern high-level languages and is intended to introduce learners to fundamental programming concepts, including control flow, variable assignment, and basic arithmetic.
 
 > In the realm of the wild, the scorned and disgraced,

@@ -1,0 +1,14 @@
+READ a;
+READ b;
+
+c := a + b;
+d := a - c;
+e := a * d;
+f := a / e;
+g := a < e;
+
+WRITE c;
+WRITE d;
+WRITE e;
+WRITE f;
+WRITE g

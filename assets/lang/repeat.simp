@@ -1,0 +1,11 @@
+i := 0;
+sum := 0;
+
+READ n;
+
+REPEAT
+  sum := sum + i;
+  i := i + 1
+UNTIL i < n;
+
+WRITE sum

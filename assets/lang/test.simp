@@ -1,0 +1,4 @@
+READ a;
+READ b;
+
+c := b - 2

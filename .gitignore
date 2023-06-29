@@ -1,0 +1,10 @@
+# Xmake cache
+.xmake/
+.cache/
+build/
+
+compile_commands.json
+
+src/simp_lang/y.tab.c
+src/simp_lang/y.tab.h
+src/simp_lang/lex.yy.c

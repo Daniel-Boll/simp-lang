@@ -1,0 +1,9 @@
+READ a;
+
+IF a < 0 THEN
+  a := a - 1
+ELSE
+  a := a + 1
+END;
+
+WRITE a
